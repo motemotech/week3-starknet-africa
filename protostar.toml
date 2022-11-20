@@ -1,0 +1,18 @@
+["protostar.config"]
+protostar_version = "0.6.0"
+
+["protostar.project"]
+libs_path = "lib"
+
+["protostar.contracts"]
+main = [
+    "src/main.cairo",
+]
+
+erc20 = [
+    "src/ERC20.cairo"
+]
+
+whitelistPresale = [
+    "src/whitelistPresale.cairo"
+]

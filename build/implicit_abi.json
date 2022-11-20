@@ -1,0 +1,14 @@
+[
+    {
+        "inputs": [],
+        "name": "see_number",
+        "outputs": [
+            {
+                "name": "num",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "_admin_address",
+                "type": "felt"
+            },
+            {
+                "name": "_token_address",
+                "type": "felt"
+            }
+        ],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    },
+    {
+        "inputs": [],
+        "name": "register",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "claim",
+        "outputs": [],
+        "type": "function"
+    }
+]
